@@ -9,7 +9,7 @@
 
 This example shows how to use the [DXErrorProvider](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.DXErrorProvider.DXErrorProvider) component and implement the [IDXDataErrorInfo](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraEditors.DXErrorProvider.IDXDataErrorInfo) interface in a data object to automatically indicate invalid values and display text-based feedback (tooltips).
 
-![WinForms Data Grid - Validate rows using IDXDataErrorInfo](https://raw.githubusercontent.com/DevExpress-Examples/how-to-perform-row-validation-using-the-idxdataerrorinfo-interface-e335/13.1.4%2B/media/winforms-grid-validate-rows.png)
+![WinForms Data Grid - Validate rows using IDXDataErrorInfo](media/winforms-grid-validate-rows.png)
 
 
 ## Files to Review
@@ -28,3 +28,4 @@ This example shows how to use the [DXErrorProvider](https://docs.devexpress.com/
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
