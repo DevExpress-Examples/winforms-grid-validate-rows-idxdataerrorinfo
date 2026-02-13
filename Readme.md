@@ -22,7 +22,7 @@ This example shows how to use the [DXErrorProvider](https://docs.devexpress.com/
 * [Edit Data. Create Cell Editors. Validate User Input](https://docs.devexpress.com/WindowsForms/753/controls-and-libraries/data-grid/data-editing-and-validation/modify-and-validate-cell-values#validate-rows)
 * [Error Notification Support for Data Sources](https://docs.devexpress.com/WindowsForms/751/controls-and-libraries/data-grid/data-editing-and-validation/errorinfo-support/error-notification-support-for-data-sources)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-validate-rows-idxdataerrorinfo&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-validate-rows-idxdataerrorinfo&~~~was_helpful=no)
 
